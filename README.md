@@ -98,7 +98,7 @@ Authors & Copyright
 
 - Daniel Müllner, 2011, <http://danifold.net>
 
-- Christoph Dalitz, 2018, <http://www.hsnr.de/ipattern/>
+- Christoph Dalitz, 2018-2020, <http://www.hsnr.de/ipattern/>
 
 
 License
