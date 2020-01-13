@@ -117,7 +117,7 @@ void cutree_cdist(int n, const int* merge, double* height, double cdist, int* la
 //               d10 d11 d12 d13   ->  d01 d02 d03 d12 d13 d23
 //               d20 d21 d22 d23
 //               d30 d31 d32 d33
-//   method  = cluster metric (see enum method_code)
+//   method  = cluster metric (see enum hclust_fast_methods)
 // Output arguments:
 //   merge   = allocated (n-1)x2 matrix (2*(n-1) array) for storing result.
 //             Result follows R hclust convention:

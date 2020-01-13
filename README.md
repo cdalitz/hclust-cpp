@@ -39,7 +39,7 @@ is the number of observables *x*:
 
 The actual clustering is done by the function *hclust_fast*, which supports
 four methods for defining a cluster distance from individual distances
-(see below):
+(see *fastcluster.h* for a description of the methods):
 
     int* merge = new int[2*(n-1)];
     double* height = new double[n-1];
@@ -65,21 +65,6 @@ after you are done with the variables:
     delete[] merge;
     delete[] height;
     delete[] labels;
-
-For a description of all function parameters, see *fastcluster.h*.
-Its parameter *method* of *hclust* can be one of
-
-- *HCLUST_METHOD_SINGLE*  
-  single link with the minimum spanning tree algorithm (Rohlf, 1973)
-
-- *HHCLUST_METHOD_COMPLETE*  
-  complete link with the nearest-neighbor-chain algorithm (Murtagh, 1984)
-
-- *HCLUST_METHOD_AVERAGE*  
-  complete link with the nearest-neighbor-chain algorithm (Murtagh, 1984)
-
-- *HCLUST_METHOD_MEDIAN*  
-  median link with the generic algorithm (Müllner, 2011)
 
 
 How to compile the library
