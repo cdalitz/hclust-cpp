@@ -1,11 +1,18 @@
+Version 1.2, 13. Jan 2020:
+--------------------------
+
+- documented methods in fastcluster.h
+- explained sample code in README.md
+
+
 Version 1.1, 26. Sep 2018:
-----------------------------
+--------------------------
 
 - fixed typo in description of condensed distance matrix
   (thanks to Jonas Maaskola)
 
 
 Version 1.0, 16. Mar 2018:
-----------------------------
+--------------------------
 
  - first creation

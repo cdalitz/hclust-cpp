@@ -2,7 +2,7 @@
 // C++ standalone verion of fastcluster by Daniel Muellner
 //
 // Copyright: Daniel Muellner, 2011
-//            Christoph Dalitz, 2018
+//            Christoph Dalitz, 2020
 // License:   BSD style license
 //            (see the file LICENSE for details)
 //
