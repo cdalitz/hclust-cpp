@@ -111,8 +111,9 @@ For visualizing the result, plotresult.r can be used as follows
 Authors & Copyright
 -------------------
 
-Daniel Müllner, 2011, <http://danifold.net>
-Christoph Dalitz, 2018, <http://www.hsnr.de/ipattern/>
+- Daniel Müllner, 2011, <http://danifold.net>
+
+- Christoph Dalitz, 2018, <http://www.hsnr.de/ipattern/>
 
 
 License
