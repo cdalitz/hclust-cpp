@@ -97,9 +97,11 @@ For visualizing the result, plotresult.r can be used as follows
 Authors & Copyright
 -------------------
 
-- Daniel Müllner, 2011, <http://danifold.net>
+- Daniel Müllner, 2011,
+  <http://danifold.net>
 
-- Christoph Dalitz, 2018-2020, <https://lionel.kr.hs-niederrhein.de/~dalitz/>
+- Christoph Dalitz, 2018-2020,
+  <https://lionel.kr.hs-niederrhein.de/~dalitz/data/hclust/>
 
 
 License
