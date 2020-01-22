@@ -6,7 +6,8 @@ clustering by Daniel Müllner. The original library with interfaces to R and
 Python can be found on [danifold.net](http://danifold.net/fastcluster.html)
 and is described in:
 
-> Daniel Müllner: ["fastcluster: Fast Hierarchical, Agglomerative Clustering Routines for R and Python."](http://www.jstatsoft.org/v53/i09/)
+> Daniel Müllner:
+> ["fastcluster: Fast Hierarchical, Agglomerative Clustering Routines for R and Python."](http://www.jstatsoft.org/v53/i09/)
 > Journal of Statistical Software 53, no. 9, pp. 1-18 (2013)
 
 Daniel Müllner has compared the performance of different hierarchical
@@ -98,7 +99,7 @@ Authors & Copyright
 
 - Daniel Müllner, 2011, <http://danifold.net>
 
-- Christoph Dalitz, 2018-2020, <http://www.hsnr.de/ipattern/>
+- Christoph Dalitz, 2018-2020, <https://lionel.kr.hs-niederrhein.de/~dalitz/>
 
 
 License

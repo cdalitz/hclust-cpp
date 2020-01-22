@@ -34,5 +34,5 @@ tgz:
 	ln -s . $(TGZDIR)
 	tar cvzf $(TGZDIR).tgz \
 		$(TGZDIR)/*.cpp $(TGZDIR)/*.h $(TGZDIR)/*.csv $(TGZDIR)/*.r \
-		$(TGZDIR)/README $(TGZDIR)/LICENSE $(TGZDIR)/Makefile $(TGZDIR)/CHANGES
+		$(TGZDIR)/README.md $(TGZDIR)/LICENSE $(TGZDIR)/Makefile $(TGZDIR)/CHANGES
 	rm $(TGZDIR)
