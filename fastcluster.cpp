@@ -15,7 +15,7 @@
 
 // Code by Daniel Müllner
 // workaround to make it usable as a standalone version (without R)
-bool fc_isnan(double x) { return false; }
+bool fc_isnan(double x) { return x != x; }
 #include "fastcluster_dm.cpp"
 #include "fastcluster_R_dm.cpp"
 
