@@ -49,6 +49,10 @@ hclust-demo
 .kdev4/
 *.kdev4
 tags
+.cache/
 
 # temp-files
 tmp
+
+# Build folder
+build/
